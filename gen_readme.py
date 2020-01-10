@@ -1,11 +1,11 @@
 import os
 
 def red(text):
-  res = '<span style=\"color:red\">' + text +'/span>'
+  res = '<span style=\"color:red\">' + text +'</span>'
   return res
 
 def green(text):
-  res = '<span style=\"color:green\">' + text +'/span>'
+  res = '<span style=\"color:green\">' + text +'</span>'
   return res
 
 build_dir = './builds'
