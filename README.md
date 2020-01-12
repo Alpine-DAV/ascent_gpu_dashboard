@@ -1,5 +1,6 @@
 # Lassen Builds Results
 
+ - 2020-01-12-08:49:08 : ![red](./images/red.png) failure
  - 2020-01-10-16:27:01 : ![red](./images/red.png) failure
  - 2020-01-10-15:28:47 : ![red](./images/red.png) failure
  - 2020-01-10-11:00:09 : ![green](./images/green.png) success
